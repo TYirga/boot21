@@ -1,6 +1,5 @@
 package com.example.demo;
 
-import javax.management.relation.Role;
 import javax.persistence.*;
 import java.util.Collection;
 
