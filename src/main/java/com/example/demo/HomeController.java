@@ -13,4 +13,8 @@ public class HomeController {
     public String login(){
         return "login";
 }
+@RequestMapping("/secure")
+    public String secure(){
+        return "secure";
+}
 }
